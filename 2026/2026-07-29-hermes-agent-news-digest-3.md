@@ -2,8 +2,6 @@
 
 Streaming TTS accéléré, Hermes en tête du benchmark Composio, et -50% sur GPT Terra/Luna dans le Nous Portal.
 
----
-
 ## Le TTS en streaming arrive dans Hermes Agent
 
 Teknium a annoncé le 29 juillet que les appels vocaux dans Hermes Agent sont désormais nettement plus rapides. La plupart des backends TTS supportés diffusent maintenant la synthèse vocale en streaming (chunk par chunk) au lieu d'attendre le fichier audio complet.
@@ -11,8 +9,6 @@ Teknium a annoncé le 29 juillet que les appels vocaux dans Hermes Agent sont d�
 Résultat : un temps de réponse vocale beaucoup plus court, qui se rapproche d'une conversation en temps réel. L'annonce ne précise pas si cette fonctionnalité est déjà disponible sur la branche stable ou si elle nécessite la branche main, mais le mécanisme semble opérationnel côté API.
 
 > Source : [@Teknium, 29 juillet 2026](https://x.com/Teknium/status/2082339029375426914)
-
----
 
 ## Hermes Agent est le harness le plus rapide, selon le benchmark Composio
 
@@ -27,8 +23,6 @@ Teknium a relayé ces résultats en soulignant que le harness le plus rapide (He
 
 > Source : [@Composio relayé par @Teknium, 29 juillet 2026](https://x.com/composio/status/2082452274140311565)
 
----
-
 ## GPT Terra et Luna a -50 % dans le Nous Portal
 
 Nous Research a annoncé le 28 juillet un partenariat avec OpenRouter pour proposer GPT-5.6 Terra et Luna à 50 % de réduction pendant une durée limitée dans le Nous Portal.
@@ -36,8 +30,6 @@ Nous Research a annoncé le 28 juillet un partenariat avec OpenRouter pour propo
 L'offre est accessible depuis portal.nousresearch.com. Teknium a confirmé la promotion en partageant le visuel de l'annonce. Aucune date de fin explicite n'a été communiquée.
 
 > Source : [@NousResearch relayé par @Teknium, 28 juillet 2026](https://x.com/Teknium/status/2082138543204528518)
-
----
 
 ## Sources
 

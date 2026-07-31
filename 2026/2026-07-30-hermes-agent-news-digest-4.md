@@ -2,8 +2,6 @@
 
 Release patch v0.19.1, FLUX 3 Preview dans Hermes Agent, intégration officielle avec Buzz et voice activation.
 
----
-
 ## Hermes Agent v0.19.1 (v2026.7.30) : la consolidation d'un mois de travail
 
 Le 30 juillet, Nous Research a tagué Hermes Agent v0.19.1, une release patch qui rassemble en une version stable les plus de 1 000 pull requests mergées depuis v0.19.0 (20 juillet). L'objectif affiché : fournir un point de référence fiable aux consommateurs en aval - images Docker, déploiements hébergés, installations fraîches.
@@ -13,8 +11,6 @@ La fenêtre couverte est massive : environ 2 789 commits, 4 748 fichiers modifi�
 Les notes de version complètes et curatées de cette fenêtre seront publiées avec v0.20.0. En attendant, la mise à jour se fait avec `hermes update` (ou le script d'installation pour une installation fraîche).
 
 > Source : [Release Hermes Agent v0.19.1 (v2026.7.30)](https://github.com/NousResearch/hermes-agent/releases/tag/v2026.7.30)
-
----
 
 ## FLUX 3 Preview disponible dans Hermes Agent
 
@@ -27,8 +23,6 @@ Côté offres : les 100 premiers inscrits avec le code L1YSMYDB obtiennent un mo
 L'événement de lancement Black Forest Labs × Nous Research se tient ce vendredi 31 juillet à San Francisco.
 
 > Sources : [@NousResearch, 30 juillet 2026](https://x.com/NousResearch/status/2082911477904654741) - [@NousResearch, événement Black Forest Labs × Nous, 31 juillet 2026](https://x.com/NousResearch/status/2082211638107623921)
-
----
 
 ## L'intégration officielle avec Buzz est arrivée
 
@@ -46,8 +40,6 @@ Côté communautaire, tonbistudio a publié le dépôt buzz-skills avec deux ski
 
 > Sources : [@Teknium, 29 juillet 2026](https://x.com/Teknium/status/2082593054805073960) - [@NousResearch, 29 juillet 2026](https://x.com/NousResearch/status/2082592619473854815) - [@tonbistudio, 30 juillet 2026](https://x.com/tonbistudio/status/2082895822845530113)
 
----
-
 ## Voice activation : « Hey Hermes »
 
 Hermes Agent dispose maintenant de l'activation vocale. En prononçant le wake word, Hermes ouvre une nouvelle session et écoute la commande, sans les mains, dans le CLI, le TUI ou l'application desktop.
@@ -55,8 +47,6 @@ Hermes Agent dispose maintenant de l'activation vocale. En prononçant le wake w
 La détection est locale et désactivée par défaut : il faut activer l'écoute via l'icône oreille dans la zone de saisie du GUI. Le système reconnaît également les noms de profils, ce qui permet d'activer une conversation vocale avec le bon profil. La documentation dédiée est disponible sur hermes-agent.nousresearch.com/docs/user-guide/features/wake-word.
 
 > Source : [@Teknium, 29 juillet 2026](https://x.com/Teknium/status/2082510413162553674)
-
----
 
 ## Sources
 

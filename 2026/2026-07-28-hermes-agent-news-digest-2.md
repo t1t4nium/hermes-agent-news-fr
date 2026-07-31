@@ -2,8 +2,6 @@
 
 Nous Research rejoint l'Open Secure AI Alliance et porte Obliteratus en skill natif Hermes.
 
----
-
 ## Nous Research, membre fondateur de l'Open Secure AI Alliance
 
 NVIDIA a lancé l'Open Secure AI Alliance le 27 juillet, une coalition de 37 organisations visant à développer des technologies, outils et standards ouverts pour la sécurité des logiciels et des agents IA. Nous Research figure parmi les membres fondateurs, aux côtés d'acteurs comme Adobe, Cisco, Cloudflare, CrowdStrike, Databricks, Hugging Face, IBM, LangChain, Microsoft, Palantir, Red Hat, Salesforce, Snowflake et SpaceXAI.
@@ -13,8 +11,6 @@ L'alliance repose sur un constat : la sécurité d'un agent IA ne se limite pas 
 NVIDIA a également publié le framework NOOA (NVIDIA Labs Object-Oriented Agent) en open source sur GitHub, un cadre de recherche qui permet aux harness d'agents de mieux intégrer les modèles pour faciliter le test, le traçage, l'audit et la gouvernance des comportements agentiques.
 
 > Sources : [@NousResearch, 27 juillet 2026](https://x.com/NousResearch/status/2081774973845205482) -- [NVIDIA Blog](https://blogs.nvidia.com/blog/open-secure-ai-alliance/)
-
----
 
 ## Obliteratus désormais disponible en skill Hermes natif
 
@@ -29,8 +25,6 @@ hermes skills install official/mlops/obliteratus
 L'outil fait partie des skills optionnels intégrés à Hermes Agent. L'approche est chirurgicale : au lieu de désactiver les garde-fous de manière large, Obliteratus cible les poids exacts responsables du comportement de refus et les neutralise sélectivement.
 
 > Source : [@Teknium, 25 juillet 2026](https://x.com/Teknium/status/2081134153970688251)
-
----
 
 ## Sources
 
