@@ -31,3 +31,7 @@ L'outil fait partie des skills optionnels intégrés à Hermes Agent. L'approche
 - [@NousResearch - Open Secure AI Alliance, 27 juillet 2026](https://x.com/NousResearch/status/2081774973845205482)
 - [NVIDIA Blog - Industry Leaders Join Open Secure AI Alliance](https://blogs.nvidia.com/blog/open-secure-ai-alliance/)
 - [@Teknium - Obliteratus skill natif Hermes, 25 juillet 2026](https://x.com/Teknium/status/2081134153970688251)
+
+## Licence
+
+Sous licence CC BY 4.0. - [hermes-agent-news-fr](https://github.com/t1t4nium/hermes-agent-news-fr)

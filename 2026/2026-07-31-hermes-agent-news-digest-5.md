@@ -37,3 +37,7 @@ GMI Cloud a utilisé sa propre API pour tous les modèles testés sur Hermes Age
 
 - [@Composio relayé par @Teknium, 31 juillet 2026](https://x.com/Teknium/status/2083172515292283223)
 - [@gmi_cloud relayé par @Teknium, 31 juillet 2026](https://x.com/Teknium/status/2083003495020630108)
+
+## Licence
+
+Sous licence CC BY 4.0. - [hermes-agent-news-fr](https://github.com/t1t4nium/hermes-agent-news-fr)

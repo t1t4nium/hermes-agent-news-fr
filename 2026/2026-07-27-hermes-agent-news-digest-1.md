@@ -53,3 +53,7 @@ Une intégration communautaire permet d'utiliser Hermes Agent dans [Buzz](https:
 - [@Teknium - 51 PRs Saturday (Luke The Dev), 26 juillet 2026](https://x.com/Teknium/status/2081525680156955111)
 - [@Teknium - Intégration Buzz, 27 juillet 2026](https://x.com/Teknium/status/2081588817878822930)
 - [Dépôt GitHub - Intégration Buzz community](https://github.com/amanning3390/buzz)
+
+## Licence
+
+Sous licence CC BY 4.0. - [hermes-agent-news-fr](https://github.com/t1t4nium/hermes-agent-news-fr)

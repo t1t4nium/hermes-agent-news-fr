@@ -57,3 +57,7 @@ La détection est locale et désactivée par défaut : il faut activer l'écoute
 - [@NousResearch - Hermes Agent now runs Buzz, 29 juillet 2026](https://x.com/NousResearch/status/2082592619473854815)
 - [@tonbistudio - buzz-skills, 30 juillet 2026](https://x.com/tonbistudio/status/2082895822845530113)
 - [@Teknium - Voice activation, 29 juillet 2026](https://x.com/Teknium/status/2082510413162553674)
+
+## Licence
+
+Sous licence CC BY 4.0. - [hermes-agent-news-fr](https://github.com/t1t4nium/hermes-agent-news-fr)

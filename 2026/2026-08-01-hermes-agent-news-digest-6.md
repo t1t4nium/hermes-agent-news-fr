@@ -44,3 +44,7 @@ Un problème de disponibilité des providers sur Nous Portal (qui ne relaye pas 
 - [@Teknium - DeepSeek V4 Flash, 31 juillet 2026](https://x.com/Teknium/status/2083232881342902562)
 - [@Teknium - Plus de providers, 1er août 2026](https://x.com/Teknium/status/2083412067630055644)
 - [@elshayib_ relayé par @Teknium - Tâche à 0,07 $, 1er août 2026](https://x.com/elshayib_/status/2083243725447147595)
+
+## Licence
+
+Sous licence CC BY 4.0. - [hermes-agent-news-fr](https://github.com/t1t4nium/hermes-agent-news-fr)

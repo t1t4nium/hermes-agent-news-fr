@@ -36,3 +36,7 @@ L'offre est accessible depuis portal.nousresearch.com. Teknium a confirmé la pr
 - [@Teknium - TTS streaming, 29 juillet 2026](https://x.com/Teknium/status/2082339029375426914)
 - [@Composio relayé par @Teknium - Benchmark harness, 29 juillet 2026](https://x.com/composio/status/2082452274140311565)
 - [@Teknium - GPT Terra/Luna -50% dans Nous Portal, 28 juillet 2026](https://x.com/Teknium/status/2082138543204528518)
+
+## Licence
+
+Sous licence CC BY 4.0. - [hermes-agent-news-fr](https://github.com/t1t4nium/hermes-agent-news-fr)
