@@ -1,10 +1,6 @@
 # Actualité Hermes Agent
 
-L'actualité Hermes Agent résumée et traduite en français, tous les jours.
-
-## Licence
-
-Sous licence CC BY 4.0.
+L'actualité [Hermes Agent](https://github.com/NousResearch/hermes-agent) résumée et traduite en français, tous les jours.
 
 ```text
                         .:-**#*++++=-:.    .:+#@@@@@@@@@@@@@%#=.
@@ -54,3 +50,11 @@ Sous licence CC BY 4.0.
         :#@@@@@@@@%==@@@@@@@@@@@@@@@@@%..:-+%@%*-:::..*@@%=.             .-*#+=%@@@@%@@%+:
           -+####*-.:@@@@@@@@@@@@@@@@@@@%%@@@+:. .-:.-%@%=.                  =%#=%@@@%+-.
 ```
+
+## Licence
+
+Sous licence CC BY 4.0. - [hermes-agent-news-fr](https://github.com/t1t4nium/hermes-agent-news-fr)
+
+## Sponsor
+
+Le quotidien Hermes Agent c'est l'actualité de [Hermes Agent](https://hermes-agent.nousresearch.com) et de [Nous Research](https://nousresearch.com) ainsi que de tout l'écosystème, sourcée, résumée et traduite en français chaque jour, pour vous. Vous appréciez le quotidien ? Il vous est utile ? Il vous fait gagner du temps ? Soutenez-le en devenant sponsor : [github.com/sponsors/t1t4nium](https://github.com/sponsors/t1t4nium).
