@@ -1,6 +1,6 @@
 # Hermes Agent Quotidien #32
 
-Cette édition revient sur la nouvelle release stable v0.20.6, sur la façon de changer de modèle depuis n'importe quel chat, sur le bureau qui pilote toutes ses machines à distance, sur la refonte du catalogue de modèles de Nous Portal, et sur l'arrêt des instances Nitter sous la pression de X Corp.
+Cette édition revient sur la nouvelle release stable v0.20.6, sur la façon de changer de modèle depuis n'importe quel chat, sur le bureau qui pilote toutes ses machines à distance, sur la refonte du catalogue de modèles de Nous Portal, et sur l'usage de Hermes Agent chez Artie.
 
 ## Hermes Agent v0.20.6 (v2026.8.27)
 
@@ -44,11 +44,11 @@ Nous Research a retravaillé la page catalogue de modèles de Nous Portal, qui r
 
 > Source : [@NousResearch, catalogue de modèles de Nous Portal refondu, 27 août 2026](https://x.com/NousResearch/status/2092776270333395353)
 
-## Les instances Nitter s'arrêtent sous la pression de X Corp
+## Artie déploie des instances Hermes sur mesure par équipe
 
-Le 24 août 2026, X Corp a envoyé des lettres de cessation et d'abstention exigeant le retrait permanent des instances Nitter et du dépôt du projet. Les miroirs publics ferment les uns après les autres : nitter.net annonce être hors ligne et le développement arrêté, l'instance tiekoetter indique être fermée pour une durée indéterminée sans date de retour, et XCancel a cessé son service après avoir reçu sa propre lettre de X Corp. La notice de l'instance tiekoetter renvoie vers le commit de note légale en amont et la discussion publique tenue sur le dépôt Nitter. L'arrêt de ces miroirs réduit les accès libres à X pour la veille de l'écosystème.
+L'équipe d'Artie utilise Hermes Agent au quotidien pour épauler ses opérations techniques et produit. Plutôt que de reposer sur un agent partagé unique, l'organisation déploie des versions personnalisées pour chaque équipe, configurées selon leurs méthodes de travail respectives.
 
-> Sources : [nitter.tiekoetter.com, notice d'indisponibilité, 27 août 2026](https://nitter.tiekoetter.com/), [zedeus/nitter, commit de note légale, 24 août 2026](https://github.com/zedeus/nitter/commit/f75bf5872e36a255a9765114ec0eb2a0394bef1f), [zedeus/nitter, discussion sur les instances publiques, issue #1442](https://github.com/zedeus/nitter/issues/1442) et [xcancel.com, avis de cessation, 24 août 2026](https://xcancel.com/)
+> Sources : [@NousResearch, Hermes accelerates teams, 28 août 2026](https://x.com/NousResearch/status/2093149616510288147) et [@JacquelineSYC19, retour d'usage Hermes chez Artie, 27 août 2026](https://x.com/JacquelineSYC19/status/2093004489930264806)
 
 ## Licence
 
