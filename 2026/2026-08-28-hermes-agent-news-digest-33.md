@@ -1,6 +1,6 @@
 # Hermes Agent Quotidien #33
 
-Cette édition revient sur la navigation connectée en tant que soi grâce au profil Chrome, une fonctionnalité mise en avant par Nous Research et détaillée par witcheer, et sur un pont communautaire qui porte le Bot Mode de l'application de bureau vers Discord.
+Cette édition revient sur la navigation connectée en tant que soi grâce au profil Chrome, une fonctionnalité mise en avant par Nous Research et détaillée par witcheer, sur un pont communautaire qui porte le Bot Mode de l'application de bureau vers Discord, et sur l'arrivée du modèle Hy4 preview de Tencent dans Nous Portal.
 
 ## Naviguer connecté en tant que soi, via un cliché du profil Chrome
 
@@ -19,6 +19,14 @@ Le projet, en bêta, exige un build Hermes compatible et une vérification de co
 witcheer salue ce travail de communauté, soulignant que les profils gardent chacun leur modèle, leur mémoire et leur identité dans le canal.
 
 > Sources : [@imnotchalk, I brought Hermes Bot Mode to Discord, 28 août 2026](https://x.com/imnotchalk/status/2093180690926068069), [@witcheer, le Bot Mode porté sur Discord, 28 août 2026](https://x.com/witcheer/status/2093216196376097051) et [hermes-discord-botrooms, dépôt GitHub de Daniel Ou](https://github.com/DanielOu1208/hermes-discord-botrooms)
+
+## Le modèle Hy4 preview de Tencent arrive dans Nous Portal
+
+witcheer annonce que Hy4 preview, un nouveau modèle open source de Tencent, est en ligne dans Nous Portal. Le tarif est de 0,67 dollar par million de jetons en entrée et 2,00 dollars en sortie, avec une remise de 20 % au lancement.
+
+D'après le dépôt de Tencent, Hy4 preview est un modèle flagship à mélange d'experts : 770 milliards de paramètres au total, dont 49 milliards activés par jeton, pour une fenêtre de contexte d'un million de jetons. L'architecture, inspirée de DeepSeek et GLM, emploie une attention sparse (Gated DeepSeek Sparse Attention) avec cache d'index, et intègre une couche de décodage spéculatif native.
+
+> Sources : [@witcheer, Hy4 preview en ligne dans Nous Portal, 28 août 2026](https://x.com/witcheer/status/2093248472312881661), [@TencentHunyuan, Hy4 preview is here, 28 août 2026](https://x.com/TencentHunyuan/status/2093222928720761009) et [Hy4-preview, dépôt GitHub de Tencent-Hunyuan](https://github.com/Tencent-Hunyuan/Hy4-preview)
 
 ## Licence
 
