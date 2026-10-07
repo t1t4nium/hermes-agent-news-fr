@@ -1,10 +1,10 @@
 # Hermes Agent Quotidien #70
 
-Cette édition revient sur le quatre-vingt-onzième numéro des Wingtips consacré à l'envoi de fichiers sur Telegram, sur la sortie du SDK Hermes Gadget pour petits appareils vocaux ESP32, sur les 144 pull requests fusionnées le 3 octobre, sur la configuration de Discord simplifiée, et sur un plugin Stream Deck réalisé par la communauté.
+Cette édition revient sur le numéro 91 des Wingtips consacré à l'envoi de fichiers sur Telegram, sur la sortie du SDK Hermes Gadget pour petits appareils vocaux ESP32, sur les 144 pull requests fusionnées le 3 octobre, sur la configuration de Discord simplifiée, et sur un plugin Stream Deck réalisé par la communauté.
 
 ## Wingtips #91 : envoyer des fichiers sur Telegram
 
-witcheer a consacré le quatre-vingt-onzième numéro des Wingtips à l'envoi de fichiers sur Telegram. L'agent ne se limite plus au texte : il suffit de demander le format souhaité dans le message, par exemple « send me that as a PDF », et Hermes crée le fichier puis l'envoie. L'usage visé est de lire un document plus tard sur son téléphone ou de le transférer à quelqu'un.
+witcheer a consacré le numéro 91 des Wingtips à l'envoi de fichiers sur Telegram. L'agent ne se limite plus au texte : il suffit de demander le format souhaité dans le message, par exemple « send me that as a PDF », et Hermes crée le fichier puis l'envoie. L'usage visé est de lire un document plus tard sur son téléphone ou de le transférer à quelqu'un.
 
 La documentation Telegram précise la mécanique : la passerelle extrait les balises `MEDIA:/chemin/vers/fichier` des réponses de l'agent et expédie le fichier référencé comme pièce jointe native de la plateforme. Les extensions prises en charge couvrent les images, l'audio, la vidéo, les documents (pdf, txt, md, csv, json, etc.), les archives et les livres. L'API Bot publique de Telegram plafonne les téléchargements à 20 Mo ; un démon local telegram-bot-api relève ce plafond à 2 Go, et Hermes ajuste automatiquement sa limite interne dès qu'un `base_url` est configuré.
 

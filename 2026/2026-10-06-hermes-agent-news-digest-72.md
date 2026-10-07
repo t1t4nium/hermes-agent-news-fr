@@ -1,10 +1,10 @@
 # Hermes Agent Quotidien #72
 
-Cette édition revient sur le quatre-vingt-treizième numéro des Wingtips consacré à l'installation autonome des skills par l'agent, sur le catalogue The Hermes Workshop qui recense 330 appareils ouverts, sur la gratuité de Solar Mini 4 pendant deux semaines sur Nous Portal, sur les 142 pull requests fusionnées le 5 octobre, et sur la page d'histoires d'usage qui passe à 326 récits.
+Cette édition revient sur le numéro 93 des Wingtips consacré à l'installation autonome des skills par l'agent, sur le catalogue The Hermes Workshop qui recense 330 appareils ouverts, sur la gratuité de Solar Mini 4 pendant deux semaines sur Nous Portal, sur les 142 pull requests fusionnées le 5 octobre, et sur la page d'histoires d'usage qui passe à 326 récits.
 
 ## Wingtips #93 : l'agent installe ses propres skills
 
-witcheer a consacré le quatre-vingt-treizième numéro des Wingtips à l'installation autonome des skills. L'agent peut trouver un skill et lancer lui-même l'installation, sans qu'on lui fournisse le nom exact ni la commande. Il suffit de demander en langage courant, par exemple « find a skill for flashcards and install it » : il choisit une correspondance et exécute l'installation.
+witcheer a consacré le numéro 93 des Wingtips à l'installation autonome des skills. L'agent peut trouver un skill et lancer lui-même l'installation, sans qu'on lui fournisse le nom exact ni la commande. Il suffit de demander en langage courant, par exemple « find a skill for flashcards and install it » : il choisit une correspondance et exécute l'installation.
 
 La documentation du système de skills précise la mécanique sous-jacente. Les skills vivent dans `~/.hermes/skills/` et suivent le standard ouvert agentskills.io. L'agent peut créer, mettre à jour et supprimer ses propres skills via l'outil `skill_manage`, et l'installation passe par le Skills Hub, qui regroupe les registres en ligne, skills.sh, les endpoints bien connus et les skills optionnels officiels. Une commande permet aussi d'installer une skill depuis un dépôt GitHub public sans ajouter le dépôt entier : `hermes skills install owner/repo/skills/my-workflow`.
 

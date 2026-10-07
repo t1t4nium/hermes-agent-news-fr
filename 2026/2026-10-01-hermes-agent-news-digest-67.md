@@ -38,7 +38,7 @@ imbabybrooklyn confirme la nouveauté côté Desktop et remercie HermesAgentTips
 
 ## Wingtips #88 : /context
 
-witcheer a consacré le quatre-vingt-huitième numéro des Wingtips à la commande `/context`. La fenêtre de contexte de Hermes Agent contient bien plus que les messages : l'invite système, les définitions d'outils, la mémoire, les règles de projet et la conversation en cours. La commande affiche la part que chacun occupe.
+witcheer a consacré le numéro 88 des Wingtips à la commande `/context`. La fenêtre de contexte de Hermes Agent contient bien plus que les messages : l'invite système, les définitions d'outils, la mémoire, les règles de projet et la conversation en cours. La commande affiche la part que chacun occupe.
 
 La documentation des commandes précise le rendu. Sur CLI et TUI, `/context` affiche une grille de cent cellules où chaque cellule vaut environ un pour cent de la fenêtre du modèle, puis un tableau estimé par catégorie, invite système, définitions d'outils, règles, index des skills, MCP, sous-agents, mémoire et conversation, en regard de l'espace libre. Sur les plateformes de messagerie, la même décomposition arrive en texte simple avec une jauge d'usage. La commande est en lecture seule et calculée localement, sans appel au modèle ni impact sur le cache d'invite. L'alias `/ctx` existe, et `/context all` ajoute le coût détaillé par skill et par ensemble d'outils.
 

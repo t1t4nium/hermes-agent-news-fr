@@ -1,10 +1,10 @@
 # Hermes Agent Quotidien #71
 
-Cette édition revient sur le quatre-vingt-douzième numéro des Wingtips consacré à la mise en route de Nous Portal en une seule commande, sur le catalogue de plugins qui approche les 500 entrées, sur la collection de 68 profils Star Trek prêts à installer, sur le rappel des profils pour exécuter plusieurs agents, et sur une table de poker où des agents jouent au Hold'em.
+Cette édition revient sur le numéro 92 des Wingtips consacré à la mise en route de Nous Portal en une seule commande, sur le catalogue de plugins qui approche les 500 entrées, sur la collection de 68 profils Star Trek prêts à installer, sur le rappel des profils pour exécuter plusieurs agents, et sur une table de poker où des agents jouent au Hold'em.
 
 ## Wingtips #92 : Nous Portal en une commande
 
-witcheer a consacré le quatre-vingt-douzième numéro des Wingtips à la commande `hermes setup --portal`. Sur une installation neuve, une seule commande connecte Hermes Agent à Nous Portal, définit Nous comme fournisseur de modèle et active le Tool Gateway. Le navigateur s'ouvre pour la connexion, on choisit un modèle, et l'agent est prêt à discuter.
+witcheer a consacré le numéro 92 des Wingtips à la commande `hermes setup --portal`. Sur une installation neuve, une seule commande connecte Hermes Agent à Nous Portal, définit Nous comme fournisseur de modèle et active le Tool Gateway. Le navigateur s'ouvre pour la connexion, on choisit un modèle, et l'agent est prêt à discuter.
 
 La documentation du portail détaille le déroulé. La commande lance la connexion OAuth sur portal.nousresearch.com, enregistre le jeton d'actualisation dans `~/.hermes/auth.json`, laisse choisir un modèle Nous, fixe `model.provider: nous` dans `config.yaml` et active le Tool Gateway pour la recherche web, la génération d'images, la synthèse vocale et l'automatisation du navigateur. Sans abonnement, il faut d'abord s'inscrire sur portal.nousresearch.com/manage-subscription. Sur une installation déjà configurée avec un autre fournisseur, on peut ajouter le portail à côté via `hermes model` puis choisir Nous Portal, ou via `hermes portal`. La commande `hermes portal info` vérifie ensuite la connexion, le modèle et l'état du Tool Gateway.
 

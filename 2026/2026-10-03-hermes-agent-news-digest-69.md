@@ -4,7 +4,7 @@ Cette édition revient sur la commande `/blueprint` présentée dans les Wingtip
 
 ## Wingtips #90 : /blueprint
 
-witcheer a consacré le quatre-vingt-dixième numéro des Wingtips à la commande `/blueprint`. Elle met en place une automatisation prête à l'emploi : Hermes pose ses questions une par une, puis planifie le tout comme une tâche cron, sans écrire la moindre syntaxe cron. L'exemple donné dans le message, une courte leçon chaque matin de semaine sur un sujet choisi, correspond au blueprint Daily learning drip du catalogue.
+witcheer a consacré le numéro 90 des Wingtips à la commande `/blueprint`. Elle met en place une automatisation prête à l'emploi : Hermes pose ses questions une par une, puis planifie le tout comme une tâche cron, sans écrire la moindre syntaxe cron. L'exemple donné dans le message, une courte leçon chaque matin de semaine sur un sujet choisi, correspond au blueprint Daily learning drip du catalogue.
 
 La documentation précise la mécanique. La forme complète est `/blueprint [name] [slot=value ...]`, avec l'alias `/bp`. Appelée sans argument, elle liste le catalogue ; avec un nom, elle démarre un remplissage guidé des champs au tour suivant ; avec des valeurs passées en ligne, comme `/blueprint morning-brief time=08:00`, elle crée la tâche directement. Un blueprint ne planifie jamais en silence : la création est toujours confirmée, et les tâches se gèrent ensuite avec `/cron`. Techniquement, un blueprint n'est qu'une skill qui déclare un bloc `metadata.hermes.blueprint` dans son en-tête `SKILL.md`.
 

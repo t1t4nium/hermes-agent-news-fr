@@ -1,6 +1,6 @@
 # Hermes Agent Quotidien #73
 
-Cette édition revient sur le lancement de Hermes Index, un classement des modèles par score et par coût par tâche, sur le quatre-vingt-quatorzième numéro des Wingtips consacré aux références @file:, sur les 187 pull requests fusionnées le 6 octobre, sur Herald OS, un système d'exploitation ouvert construit autour de l'agent, et sur l'adoption de Hermes Gadget par la communauté.
+Cette édition revient sur le lancement de Hermes Index, un classement des modèles par score et par coût par tâche, sur le numéro 94 des Wingtips consacré aux références @file:, sur les 187 pull requests fusionnées le 6 octobre, sur Herald OS, un système d'exploitation ouvert construit autour de l'agent, et sur l'adoption de Hermes Gadget par la communauté.
 
 ## Hermes Index : le classement des modèles par score et coût
 
@@ -16,7 +16,7 @@ La notation de Hermes Bench combine 64 contrôles automatiques sur les fichiers 
 
 ## Wingtips #94 : attacher un fichier à son message
 
-witcheer a consacré le quatre-vingt-quatorzième numéro des Wingtips aux références de contexte. Un agent peut recevoir un fichier entier comme partie du message, sans copier-coller : on tape @, on choisit file: dans le menu, puis on ajoute le nom du fichier et sa question, par exemple « @ file:meeting-notes.md turn this into a to-do list ».
+witcheer a consacré le numéro 94 des Wingtips aux références de contexte. Un agent peut recevoir un fichier entier comme partie du message, sans copier-coller : on tape @, on choisit file: dans le menu, puis on ajoute le nom du fichier et sa question, par exemple « @ file:meeting-notes.md turn this into a to-do list ».
 
 La documentation des références de contexte détaille la mécanique. La syntaxe @file: injecte le contenu d'un fichier, avec une plage de lignes possible (@file:chemin:10-25) ; @folder: injecte l'arborescence d'un dossier ; @diff et @staged injectent les changements git ; @git:N les N derniers commits ; @url: extrait une page web. Dans le CLI interactif, @ déclenche la complétion, et le contenu est expansé avant l'envoi au modèle, sous une section « Attached Context ». C'est une fonctionnalité de CLI : sur les plateformes de messagerie, le @ n'est pas expansé par la passerelle, et l'agent passe par read_file, search_files ou web_extract à la place.
 
