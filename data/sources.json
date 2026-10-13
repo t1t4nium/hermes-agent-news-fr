@@ -1,0 +1,42 @@
+[
+  {
+    "kind": "feed",
+    "name": "Dépôt GitHub de Hermes Agent",
+    "url": "https://github.com/NousResearch/hermes-agent/releases.atom"
+  },
+  {
+    "kind": "x_account",
+    "name": "@NousResearch",
+    "url": "https://x.com/NousResearch"
+  },
+  {
+    "kind": "x_account",
+    "name": "@Teknium",
+    "url": "https://x.com/Teknium"
+  },
+  {
+    "kind": "x_account",
+    "name": "@imbabybrooklyn",
+    "url": "https://x.com/imbabybrooklyn"
+  },
+  {
+    "kind": "x_account",
+    "name": "@theemozilla",
+    "url": "https://x.com/theemozilla"
+  },
+  {
+    "kind": "x_account",
+    "name": "@witcheer",
+    "url": "https://x.com/witcheer"
+  },
+  {
+    "kind": "x_account",
+    "name": "@tonbistudio",
+    "url": "https://x.com/tonbistudio"
+  },
+  {
+    "kind": "x_account",
+    "name": "@iamlukethedev",
+    "url": "https://x.com/iamlukethedev"
+  }
+]
